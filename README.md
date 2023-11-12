@@ -5,7 +5,8 @@ A simple way to remotely update macro-enabled Excel files.
 ## See it in action
 
 1. Download [v1.0.0](https://github.com/vbamacros/autoupdater-sample/releases/download/v1.0.0/autoupdater-sample.xlsm) or [v2.0.0](https://github.com/vbamacros/autoupdater-sample/releases/download/v2.0.0/autoupdater-sample.xlsm).
-2. Open the file; you should be prompted to update to v3.0.0.
+2. Alt + click and check the Unblock box under Security. (All downloaded macros are flagged as "potentially dangerous")
+3. Open the file; you should be prompted to update to v3.0.0.
 
 ## ⚠️ Warnings
 
