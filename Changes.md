@@ -1,3 +1,7 @@
+### v3.0.0
+
+The latest and greatest
+
 ### v2.0.0
 
 Version two point oh
