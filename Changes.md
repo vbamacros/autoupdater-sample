@@ -1,3 +1,7 @@
+### v2.0.0
+
+Version two point oh
+
 ### v1.0.0
 
 Inital mock release
